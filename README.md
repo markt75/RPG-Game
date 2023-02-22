@@ -1,3 +1,3 @@
-RPG Game
+##RPG Game
 
-RPG Game similar to Pokemon. Project 2 from Advanced Programming course.
+This project is made using OpenFrameworks library. This repository is part of a Programming Assignment for the Advanced Programming Course.
